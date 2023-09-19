@@ -1,4 +1,4 @@
-Algoritmo calculadora
+Algoritmo calculadora simple
 	Definir NumX, NumY,Dif  Como Entero
 	Escribir "ingrese el primer numero"
 	Leer numx
